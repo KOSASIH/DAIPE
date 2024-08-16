@@ -36,4 +36,20 @@ class TestIncidentResponse(unittest.TestCase):
     def test_integrate_with_threat_detection(self):
         # Test integration with threat detection
         threat_data = self.threat_detection.analyze_network_traffic([])
-        self.incident_response.integrate_with_threat_detection(th
+        self.incident_response.integrate_with_threat_detection(threat_data)
+        self.assertTrue(self.incident_response.threat_detection_integrated)
+
+    def test_generate_incident_report(self):
+        # Test generation of incident report
+        incident_id = 'INC12345'
+        report = self.incident_response.generate_incident_report(incident_id)
+        self.assertIsNotNone(report)
+
+    def test_notify_stakeholders(self):
+        # Test notification of stakeholders
+        incident_id = 'INC12345'
+        notification_result = self.incident_response.notify_stakeholders(incident_id)
+        self.assertTrue(notification_result)
+
+if __name__ == '__main__':
+    unittest.main()
