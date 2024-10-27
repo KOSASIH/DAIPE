@@ -127,7 +127,7 @@
 [![Red Hat Certified System Administrator (RHCSA)](https://img.shields.io/badge/Red_Hat_Certified_System_Administrator-RHCSA-CC0000?style=flat&logo=redhat)](https://www.redhat.com/en/services/certification/rhcsa)
 [![Certified Data Privacy Solutions Engineer (CDPSE)](https://img.shields.io/badge/CDPSE-8A2BE2?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cdpse)
 [![Salesforce Certified Advanced Administrator](https://img.shields.io/badge/Salesforce_Certified_Advanced_Administrator-00A1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com/credentials/advancedadministrator)
-[![Salesforce Certified Technical Architect](https://img.shields.io/badge/Salesforce_Certified_Technical_Architect-00A1E0?style=flat&logo=salesforce)](https://trailhead .salesforce.com/credentials/technicalarchitect)
+[![Salesforce Certified Technical Architect](https://img.shields.io/badge/Salesforce_Certified_Technical_Architect-00A1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com/credentials/technicalarchitect)
 [![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_-_Associate-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![AWS Certified Developer - Associate](https://img.shields.io/badge/AWS_Certified_Developer_-_Associate-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-developer-associate/)
 [![AWS Certified SysOps Administrator - Associate](https://img.shields.io/badge/AWS_Certified_SysOps_Administrator_-_Associate-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-sysops-administrator-associate/)
@@ -144,7 +144,7 @@
 [![Microsoft Certified: Power Platform Fundamentals](https://img.shields.io/badge/Microsoft_Certified_Power_Platform_Fundamentals-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)
 [![Oracle Certified Professional, MySQL Database Administrator](https://img.shields.io/badge/Oracle_Certified_Professional_MySQL_Database_Administrator-F80000?style=flat&logo=oracle)](https://education.oracle.com/mysql-database-administrator/pexam_1Z0-921)
 [![Red Hat Certified Specialist in Ansible Automation](https://img.shields.io/badge/Red_Hat_Certified_Specialist_in_Ansible_Automation-RHCA-CC0000?style=flat&logo=redhat)](https://www.redhat.com/en/services/certification/rhca)
-[![Salesforce Certified Marketing Cloud Administrator](https://img.shields.io/badge/Salesforce_Certified_Marketing_Cloud_Administrator-00A 1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com/credentials/marketingcloudadmin)
+[![Salesforce Certified Marketing Cloud Administrator](https://img.shields.io/badge/Salesforce_Certified_Marketing_Cloud_Administrator-00A1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com/credentials/marketingcloudadmin)
 [![Salesforce Certified Commerce Cloud Developer](https://img.shields.io/badge/Salesforce_Certified_Commerce_Cloud_Developer-00A1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com/credentials/commerceclouddeveloper)
 
 
