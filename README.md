@@ -67,6 +67,36 @@
 [![ISO 50007 Certified](https://img.shields.io/badge/ISO_50007-0072B8?style=flat&logo=iso)](https://www.iso.org/iso-50007-energy-management.html)
 [![ISO 22301 Certified](https://img.shields.io/badge/ISO_22301-0072B8?style=flat&logo=iso)](https://www.iso.org/iso-22301-business-continuity.html)
 
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![AWS Certified Developer](https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-developer-associate/)
+[![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS_Certified_SysOps_Administrator-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-sysops-administrator-associate/)
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified_Azure_Fundamentals-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+[![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft_Certified_Azure_Solutions_Architect_Expert-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
+[![Google Cloud Certified - Professional Cloud Architect](https://img.shields.io/badge/Google_Cloud_Certified_Professional_Cloud_Architect-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/cloud-architect)
+[![Google Cloud Certified - Associate Cloud Engineer](https://img.shields.io/badge/Google_Cloud_Certified_Associate_Cloud_Engineer-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/cloud-engineer)
+[![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco_Certified_Network_Associate-1BA0D7?style=flat&logo=cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FFB11A?style=flat&logo=comptia)](https://www.comptia.org/certifications/security)
+[![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-8A2BE2?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CISSP)
+[![Certified Ethical Hacker (CEH)](https://img.shields.io/badge/Certified_Ethical_Hacker-32CD32?style=flat&logo=ec-council)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![Project Management Professional (PMP)](https://img.shields.io/badge/Project_Management_Professional-FF4500?style=flat&logo=pmi)](https://www.pmi.org/certifications/project-management-pmp)
+[![ITIL Foundation](https://img.shields.io/badge/ITIL_Foundation-00BFFF?style=flat&logo=itil)](https://www.axelos.com/certifications/itil-certification)
+[![Scrum Master Certified (SMC)](https://img.shields.io/badge/Scrum_Master_Certified-FFD700?style=flat&logo=scrum)](https://www.scrumstudy.com/certification/scrum-master-certification/)
+[![AWS Certified Solutions Architect - Professional](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_-_Professional-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+[![AWS Certified DevOps Engineer](https://img.shields.io/badge/AWS_Certified_DevOps_Engineer-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+[![Microsoft Certified: Azure DevOps Engineer Expert](https://img.shields.io/badge/Microsoft_Certified_Azure_DevOps_Engineer_Expert-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
+[![Google Cloud Certified - Professional Data Engineer](https://img.shields.io/badge/Google_Cloud_Certified_Professional_Data_Engineer-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/data-engineer)
+[![Google Cloud Certified - Professional Machine Learning Engineer](https://img.shields.io/badge/Google_Cloud_Certified_Professional_Machine_Learning_Engineer-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/machine-learning-engineer)
+[![Cisco Certified CyberOps Associate](https://img.shields.io/badge/Cisco_Certified_CyberOps_Associate-1BA0D7?style=flat&logo=cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyberops-associate.html)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-FFB11A?style=flat&logo=comptia)](https://www.comptia.org/certifications/network)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-FFB11A?style=flat&logo=comptia)](https://www.comptia.org/certifications/a)
+[![Certified Information Security Manager (CISM)](https://img.shields.io/badge/Certified_Information_Security_Manager-8A2BE2?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cism)
+[![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/Certified_Information_Systems_Auditor-8A2BE2?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cisa)
+[![Certified Cloud Security Professional (CCSP)](https://img.shields.io/badge/Certified_Cloud_Security_Professional-32CD32?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CCSP)
+[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://img.shields.io/badge/Microsoft_Certified_Security%2C_Compliance%2C_and_Identity_Fundamentals-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/certifications/security-compliance-identity-fundamentals/)
+[![Oracle Certified Professional, Java SE 11 Developer](https://img.shields.io/badge/Oracle_Certified_Professional_Java_SE_11_Developer-F80000?style=flat&logo=oracle)](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819)
+[![Red Hat Certified Engineer (RHCE)](https://img.shields.io/badge/Red_Hat_Certified_Engineer-RHCE-CC0000?style=flat&logo=redhat)](https://www.redhat.com/en/services/certification/rhce)
+
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/DAIPE">DAIPE</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # DAIPE
