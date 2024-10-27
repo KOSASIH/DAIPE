@@ -1,3 +1,22 @@
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO_9001-0072B8?style=flat&logo=iso)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO_27001-0072B8?style=flat&logo=iso)](https://www.iso.org/isoiec-27001-information-security.html)
+[![IEEE Standards](https://img.shields.io/badge/IEEE_Standards-0072B8?style=flat&logo=ieee)](https://standards.ieee.org/)
+[![W3C Compliance](https://img.shields.io/badge/W3C_Compliance-0072B8?style=flat&logo=w3c)](https://www.w3.org/)
+[![GDPR Compliant](https://img.shields.io/badge/GDPR_Compliant-0072B8?style=flat&logo=gdpr)](https://gdpr.eu/)
+[![HITRUST Certified](https://img.shields.io/badge/HITRUST_Certified-0072B8?style=flat&logo=hitrust)](https://hitrustalliance.net/)
+[![CMMI Level 3](https://img.shields.io/badge/CMMI_Level_3-0072B8?style=flat&logo=cmm)](https://cmmiinstitute.com/)
+[![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST_Cybersecurity_Framework-0072B8?style=flat&logo=nist)](https://www.nist.gov/cyberframework)
+[![UNESCO World Heritage](https://img.shields.io/badge/UNESCO_World_Heritage-0072B8?style=flat&logo=unesco)](https://whc.unesco.org/)
+[![FAO Certified](https://img.shields.io/badge/FAO_Certified-0072B8?style=flat&logo=fao)](http://www.fao.org/)
+[![WHO Certification](https://img.shields.io/badge/WHO_Certification-0072B8?style=flat&logo=who)](https://www.who.int/)
+[![IATA Certified](https://img.shields.io/badge/IATA_Certified-0072B8?style=flat&logo=iata)](https://www.iata.org/)
+[![FSC Certified](https://img.shields.io/badge/FSC_Certified-0072B8?style=flat&logo=fsc)](https://www.fsc.org/)
+[![B Corporation](https://img.shields.io/badge/B_Corporation-0072B8?style=flat&logo=b-corporation)](https://bcorporation.net/)
+[![LEED Certified](https://img.shields.io/badge/LEED_Certified-0072B8?style=flat&logo=leed)](https://www.usgbc.org/leed)
+[![SA8000 Certified](https://img.shields.io/badge/SA8000_Certified-0072B8?style=flat&logo=sa8000)](https://www.sai-global.com/)
+[![ISO 14001 Certified](https://img.shields.io/badge/ISO_14001-0072B8?style=flat&logo=iso)](https://www.iso.org/iso-14001-environmental-management.html)
+[![ISO 45001 Certified](https://img.shields.io/badge/ISO_45001-0072B8?style=flat&logo=iso)](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/DAIPE">DAIPE</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # DAIPE
