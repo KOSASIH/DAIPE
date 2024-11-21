@@ -1,5 +1,5 @@
 python==3.9.5
-numpy==1.21.2
+numpy==1.22.0
 pandas==1.3.5
 websocket-client==1.3.2
 pi-sdk==1.2.3  # Pi Network SDK
